@@ -324,11 +324,11 @@ footer{
     }
 
     .bottomII{
+        overflow-x:hidden;
         padding: 1rem;
     }
 
     .bottomII img{
-        overflow-x:hidden;
         padding-top: 20px;
         min-width: 150px;
     }
